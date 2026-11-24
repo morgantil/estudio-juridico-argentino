@@ -1,0 +1,6 @@
+# Capturas de trabajo locales (no van al repo)
+shot-*.png
+
+# Sistema
+.DS_Store
+Thumbs.db
